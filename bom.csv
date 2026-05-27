@@ -1,12 +1,14 @@
-component,price (INR),link
-ESP32-S3 DevKitC-1 N16R8,990,https://www.amazon.in/ROBOTICSSIGN-ESP32-S3-Devkitc-1-N16R8-Development-Bluetooth-microprocessor/dp/B0DRSG541Z/
-Waveshare 2.8" Capacitive IPS LCD (CST328),1702,https://robu.in/product/waveshare-2-8inch-lcd-display-module-with-touch-panel-embedded-with-st7789t3-display-driver-and-cst328-capacitive-touch-controller-tft-display-240x320-resolution/
-MAX98357A I2S DAC Amplifier,375,https://www.amazon.in/TECHTONICS-MAX98357-Amplifier-Interface-Filterless/dp/B0CTKKS25Y/
-2" 4Ω 3W Full Range Speaker,232,https://www.amazon.in/gp/product/B08VGR2WJH/
-MPU6050 Accelerometer/Gyroscope,170,https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
-DS3231 RTC Module,295,https://www.amazon.in/DS3231-Clock-Module-AT24C32-Precision/dp/B0BT4QS65R/
-Type-C USB 5V 2A Boost Charging Module,50,https://robu.in/product/type-c-usb-5v-2a-step-up-boost-converter-with-usb-charger/
-3.7V 2500mAh LiPo Battery,600,https://robu.in/product/wly104050-2500mah-3-7v-single-cell-rechargeable-lipo-battery/
-HP 32GB MicroSD Card,1100,https://www.amazon.in/HP-MicroSD-U1-TF-Card-32GB/dp/B07DJLFMPS/
-MicroSD Card Module,110,https://www.amazon.in/Prakti-Storage-Memory-Adapter-Arduino/dp/B0C243QCGD/
-Misc (jumper wires solder flux),250,
+Component,Description,Quantity,Source,Unit Price (INR),Link
+ESP32-S3 DevKitC-1 N16R8,Main microcontroller — WiFi + BT + dual USB-C,1,Amazon,990,https://www.amazon.in/ROBOTICSSIGN-ESP32-S3-Devkitc-1-N16R8-Development-Bluetooth-microprocessor/dp/B0DRSG541Z/
+Waveshare 2.8" Capacitive IPS LCD,Touch display — CST328 controller — SPI,1,Robu,1702,https://robu.in/product/waveshare-2-8inch-lcd-display-module-with-touch-panel-embedded-with-st7789t3-display-driver-and-cst328-capacitive-touch-controller-tft-display-240x320-resolution/
+MAX98357A I2S DAC Amplifier,I2S DAC + amp in one module — drives speaker directly,1,Amazon,375,https://www.amazon.in/TECHTONICS-MAX98357-Amplifier-Interface-Filterless/dp/B0CTKKS25Y/
+2" 4Ω 3W Full Range Speaker,Full range — handles all frequencies — fits the case,1,Amazon,232,https://www.amazon.in/gp/product/B08VGR2WJH/
+MPU6050 Accelerometer/Gyroscope,Shake to wake,1,Robu,170,https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
+DS3231 RTC Module,Keeps time when powered off,1,Amazon,295,https://www.amazon.in/DS3231-Clock-Module-AT24C32-Precision/dp/B0BT4QS65R/
+Type-C USB 5V 2A Boost Charging Module,Charges LiPo and outputs 5V simultaneously,1,Robu,50,https://robu.in/product/type-c-usb-5v-2a-step-up-boost-converter-with-usb-charger/
+3.7V 2500mAh LiPo Battery,2 inch form factor — fits the case,1,Robu,600,https://robu.in/product/wly104050-2500mah-3-7v-single-cell-rechargeable-lipo-battery/
+HP 32GB MicroSD Card,Song storage,1,Amazon,1100,https://www.amazon.in/HP-MicroSD-U1-TF-Card-32GB/dp/B07DJLFMPS/
+MicroSD Card Module,SPI interface — 3.3V compatible,1,Amazon,110,https://www.amazon.in/Prakti-Storage-Memory-Adapter-Arduino/dp/B0C243QCGD/
+Misc (jumper wires solder flux),Wiring and assembly,1,Local,250,
+,,,,,
+TOTAL,,,,5874,
